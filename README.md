@@ -1,4 +1,3 @@
-# instacart-analysis
 
 # Instacart EDA Project
 Exploratory Data Analysis using Python, Pandas, and Matplotlib.
